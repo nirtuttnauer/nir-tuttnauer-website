@@ -1,0 +1,20 @@
+[
+  {
+    "imageUrl": "/images/scrabble.png", 
+    "title": "Scrabble",
+    "description": "Multiplayer Scrabble game built with advanced logic and networking.",
+    "techStack": ["Java", "JavaFX", "Networking"]
+  },
+  {
+    "imageUrl": "/images/ecommerce.png",
+    "title": "Jewelry Ecommerce Site",
+    "description": "Led front-end development, CRUD functionality, location features.",
+    "techStack": ["JavaScript", "React.js", "EJS", "Bing Maps API"]
+  },
+  {
+    "imageUrl": "/images/covid-detector.png", 
+    "title": "Covid-Detector-in-Chest-x-ray",
+    "description": "Detects Covid-19 in chest X-rays using machine learning.", 
+    "techStack": ["Python", "Jupyter Notebook", "TensorFlow"]
+  }
+]
